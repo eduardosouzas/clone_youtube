@@ -2,7 +2,7 @@ import 'package:clone_youtube/models/Video.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
 
-const CHAVE_YOUTUBE_API = "AIzaSyAt8GvcA2PrDyRQ1eDUR0NGVz0nTMZ-WAU";
+const CHAVE_YOUTUBE_API = "AIzaSyAgRY9jqWlEDHXaPydyFTSwVGRX6wW_3bU";
 const ID_CHANNEL = "UC6HSgv198kjUi7qypT7ff_g";
 const URL_BASE = "https://www.googleapis.com/youtube/v3/";
 
